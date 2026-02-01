@@ -36,5 +36,7 @@ public class MatrixArray {
 
         System.out.println("Your matrix: ");
         printMatrix(matrix, rows, cols);
+
+        sc.close();
     }
 }
