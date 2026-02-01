@@ -1,5 +1,4 @@
 package arrays.practice;
-
 import java.util.Scanner;
 
 public class LinearSearch {
