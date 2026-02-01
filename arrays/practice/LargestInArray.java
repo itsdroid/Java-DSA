@@ -15,6 +15,6 @@ public class LargestInArray {
     public static void main(String[] args) {
         int[] arr = { 4, 8, 90, 33, 44, 55, 22 };
 
-        System.out.println("Max Element: " + largestInArray(arr,max));
+        System.out.println("Max Element: " + largestInArray(arr));
     }
 }
